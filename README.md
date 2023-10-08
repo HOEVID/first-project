@@ -1,2 +1,2 @@
 # first-project
-This is the repo of my first project
+This is the repository of my first project
